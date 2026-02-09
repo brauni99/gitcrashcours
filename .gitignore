@@ -1,3 +1,6 @@
+.vs/
+[Oo]obj/
+#[Oo] bedeutet, dass sowohl "obj" als auch "Obj" ignoriert werden sollen
 bin/ 
 # bin ordner soll ignoriert werden
 
