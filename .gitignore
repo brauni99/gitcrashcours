@@ -1,0 +1,3 @@
+bin/ # bin ordner soll ignoriert werden
+obj/ # obj ordner soll ignoriert werden
+.vs/ # Visual Studio spezifische Dateien und Ordner sollen ignoriert werden
